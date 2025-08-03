@@ -501,7 +501,8 @@
             "format": "switch",
             "required": false,
             "value": true,
-            "selected": false
+            "selected": false,
+            "public": false
         },
         {
             "type": "static",
@@ -562,6 +563,11 @@
                     "label": "اظهار الصورة كاملةً في المنتصف (Contain)",
                     "value": "contain",
                     "key": "f4adec13-6e4c-433b-b141-b2807935ced9"
+                },
+                {
+                    "label": null,
+                    "value": "Value 3",
+                    "key": "8a8b76d7-01ee-4daa-b523-520ecfc6a403"
                 }
             ],
             "source": "Manual",
