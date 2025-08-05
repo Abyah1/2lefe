@@ -416,7 +416,7 @@
                 }
             ],
             "source": "Manual",
-            "required": true
+            "required": false
         },
         {
             "type": "boolean",
@@ -456,7 +456,7 @@
             "format": "switch",
             "required": false,
             "value": true,
-            "selected": true
+            "selected": false
         },
         {
             "type": "boolean",
@@ -571,7 +571,7 @@
                 }
             ],
             "source": "Manual",
-            "required": true
+            "required": false
         },
         {
             "type": "boolean",
